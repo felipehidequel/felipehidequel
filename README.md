@@ -6,6 +6,7 @@
   <h3>Interests</h3>
   <ul>
     <li>Python progaming</li>
+    <li>C++ progaming</li>
     <li>HPC</li>
   </ul>
 
