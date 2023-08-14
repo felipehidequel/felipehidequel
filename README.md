@@ -10,7 +10,7 @@
     <li>HPC</li>
   </ul>
 <div>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehidequel&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehidequel&show_icons=true&theme=radical&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipehidequel&show_icons=true&theme=radical&layout=compact)
 </div>
 <div>
