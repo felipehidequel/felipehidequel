@@ -9,10 +9,10 @@
     <li>C++ progaming</li>
     <li>HPC</li>
   </ul>
-
+<div>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehidequel&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipehidequel&show_icons=true&theme=radical&layout=compact)
-
+</div>
 <div>
   <h3>Contact me</h3>
   <a href = "mailto:felipehidequel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
