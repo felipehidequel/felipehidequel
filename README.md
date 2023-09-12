@@ -9,9 +9,11 @@
     <li>C++ progaming</li>
     <li>HPC</li>
   </ul>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehidequel&show_icons=true&theme=radical&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipehidequel&show_icons=true&theme=radical&layout=compact)
+  
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=felipehidequel&show_icons=true&theme=radical&layout=compact" height="160" whidth="200" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipehidequel&show_icons=true&theme=radical&layout=compact" height="160" whidth="200" alt="languages graph"/>
+</div>
 
 <div>
   <h3>Contact me</h3>
